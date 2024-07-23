@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: genaiproject
+Version: 0.0.0
+Author: preetyrai11
+Author-email: drpreetyrai@gmail.com
+Requires-Dist: python-dotenv
+Requires-Dist: google-generativeai
+Requires-Dist: langchain
+Requires-Dist: PyPDF2
+Requires-Dist: faiss-cpu
+Requires-Dist: streamlit
