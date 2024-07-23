@@ -1,0 +1,13 @@
+prefix=/Users/preetyrai/Palm2LLM/Palm2LLM/venv
+exec_prefix=/Users/preetyrai/Palm2LLM/Palm2LLM/venv
+libdir=/Users/preetyrai/Palm2LLM/Palm2LLM/venv/lib
+sharedlibdir=/Users/preetyrai/Palm2LLM/Palm2LLM/venv/lib
+includedir=/Users/preetyrai/Palm2LLM/Palm2LLM/venv/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}
