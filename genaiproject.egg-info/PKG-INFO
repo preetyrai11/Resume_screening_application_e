@@ -9,3 +9,4 @@ Requires-Dist: langchain
 Requires-Dist: PyPDF2
 Requires-Dist: faiss-cpu
 Requires-Dist: streamlit
+Requires-Dist: langchain-community
